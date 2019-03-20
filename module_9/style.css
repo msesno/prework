@@ -1,0 +1,65 @@
+p1 {
+  color: red;
+}
+
+
+
+p2 {
+  color: blue;
+}
+
+
+
+p3 {
+  color: green;
+}
+
+
+
+p4 {
+  font-size: 30px;
+}
+
+
+
+p5 {
+  font-size: 10px;
+}
+
+
+
+p6 {
+  text-align: center;
+}
+
+
+
+p7 {
+  font-weight: bold;
+}
+
+
+
+p8 {
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+
+
+p9 {
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  color: orangered;
+  font-size: 22px;
+}
+
+
+
+.styledFont {
+	font-style: italic;
+}
+
+
+
+.img {
+	border: #2B9645 thick dashed;
+}
